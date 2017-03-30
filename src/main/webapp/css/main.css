@@ -1,0 +1,42 @@
+
+html{
+    background: #e6e9e9 linear-gradient(270deg, rgb(230, 233, 233) 0%, rgb(216, 221, 221) 100%);
+}
+
+body{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    margin: 0 auto 0 auto;
+    padding: 2em 2em;
+}
+table{
+    max-width: 800px;
+    border: groove 1px;
+    background: #fff;
+    color: #545454;
+    margin-bottom: 4em;
+}
+
+
+.left{
+    width: 15%;
+    overflow: hidden;
+    float: left;
+    text-align: center;
+    line-height: 5;
+}
+
+.right{
+    width: 80%;
+    margin-left: 10%;
+}
+
+h2{
+    color: green;
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    background-color: aliceblue;
+}
